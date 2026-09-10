@@ -23,6 +23,8 @@ Gosto de transformar problemas reais em experiências simples, confiáveis e fá
 
 <div align="center">
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -33,6 +35,10 @@ Gosto de transformar problemas reais em experiências simples, confiáveis e fá
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
+
+## Backend
+
+Java e Spring Boot para APIs, autenticação, regras de negócio e integrações da Lutri.
 
 ## Em foco
 
