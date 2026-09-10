@@ -2,7 +2,7 @@
 
 # Oi, eu sou o Ryan 👋
 
-<p><img src="https://raw.githubusercontent.com/ryanzisse/lutri-app-frontend/master/public/lutriroxo.svg" alt="Lutri" width="150" /></p>
+<p><img src="https://raw.githubusercontent.com/ryanzisse/ryanzisse/main/lutriroxo.svg" alt="Lutri" width="150" /></p>
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1100&color=4C2A9A&center=true&vCenter=true&width=600&lines=Fundador+da+Lutri;Lutri%3A+seu+lugar+em+boas+m%C3%A3os" alt="Lutri escrevendo" /></a></p>
 
 [![Lutri](https://img.shields.io/badge/Lutri-seu%20lugar%20em%20boas%20m%C3%A3os-4C2A9A?style=for-the-badge)](https://lutri.com.br)
