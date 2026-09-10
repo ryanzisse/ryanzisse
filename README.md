@@ -5,6 +5,8 @@
 <p><img src="https://lutri.com.br/lutriroxo.svg" alt="Lutri" width="150" /></p>
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1100&color=4C2A9A&center=true&vCenter=true&width=600&lines=Fundador+da+Lutri;Lutri%3A+seu+lugar+em+boas+m%C3%A3os" alt="Lutri escrevendo" /></a></p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=ryanzisse&show_icons=true&hide_border=true&title_color=4C2A9A&icon_color=4C2A9A&text_color=374151&bg_color=ffffff" alt="Resumo das contribuições de Ryan Eduardo Geik" />
+
 [![Lutri](https://img.shields.io/badge/Lutri-seu%20lugar%20em%20boas%20m%C3%A3os-4C2A9A?style=for-the-badge)](https://lutri.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ryan%20Eduardo%20Geik-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ryan-eduardo-geik-7801a0297/)
 
