@@ -2,10 +2,8 @@
 
 # Oi, eu sou o Ryan 👋
 
-<p><img src="https://lutri.com.br/lutriroxo.svg" alt="Lutri" width="150" /></p>
+<p><img src="https://raw.githubusercontent.com/ryanzisse/lutri-app-frontend/master/public/lutriroxo.svg" alt="Lutri" width="150" /></p>
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1100&color=4C2A9A&center=true&vCenter=true&width=600&lines=Fundador+da+Lutri;Lutri%3A+seu+lugar+em+boas+m%C3%A3os" alt="Lutri escrevendo" /></a></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ryanzisse&show_icons=true&hide_border=true&title_color=4C2A9A&icon_color=4C2A9A&text_color=374151&bg_color=ffffff" alt="Resumo das contribuições de Ryan Eduardo Geik" />
 
 [![Lutri](https://img.shields.io/badge/Lutri-seu%20lugar%20em%20boas%20m%C3%A3os-4C2A9A?style=for-the-badge)](https://lutri.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ryan%20Eduardo%20Geik-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ryan-eduardo-geik-7801a0297/)
@@ -14,9 +12,9 @@
 
 ## Sobre mim
 
-Sou Ryan Eduardo Geik, desenvolvedor full-stack e fundador da **Lutri**, uma plataforma que conecta clientes a profissionais de serviços residenciais em São Mateus, Espírito Santo.
+Sou o Ryan. Trabalho com desenvolvimento full-stack e estou construindo a **Lutri**, uma plataforma para conectar clientes e profissionais de serviços residenciais em São Mateus, Espírito Santo.
 
-Gosto de transformar problemas reais em experiências simples, confiáveis e fáceis de usar, do primeiro clique ao produto em produção.
+No dia a dia, cuido do produto, do código e de tudo que precisa sair do papel para a plataforma funcionar bem.
 
 ## O que estou construindo
 
@@ -52,7 +50,7 @@ Java e Spring Boot para APIs, autenticação, regras de negócio e integrações
 
 ## Vamos conversar?
 
-A Lutri está nascendo em São Mateus com muita proximidade e vontade de fazer diferente. Se você quer trocar uma ideia sobre produto, tecnologia ou colaboração, será um prazer conversar.
+A Lutri está começando em São Mateus. Se quiser conversar sobre produto, tecnologia ou uma parceria, pode me chamar.
 
 📍 São Mateus, ES  ·  🌐 [lutri.com.br](https://lutri.com.br)  ·  📸 [@lutriapp](https://instagram.com/lutriapp)
 
